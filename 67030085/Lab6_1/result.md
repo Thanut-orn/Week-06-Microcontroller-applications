@@ -1,7 +1,6 @@
 # idf.py size
-```c
 <img width="772" height="391" alt="Screenshot 2025-08-09 190703" src="https://github.com/user-attachments/assets/11b17259-dca2-4fac-889c-bfc41c55176a" />
-```
+
 # idf.py size-components
 ```c
 Executing action: size-components
@@ -271,10 +270,10 @@ Executing "ninja size-files"...
 └─────────────────────────────────────┴────────────┴──────┴──────┴───────┴──────┴───────┴──────────┴────────────┴───────┴────────────┴─────────┴──────────┴──────────┴────────────────────┴─────────────┘
 ```
 # การทดลองเพิ่มเติม
-```c
+
 <img width="781" height="414" alt="image" src="https://github.com/user-attachments/assets/d92bb11e-81c4-4ee7-96ab-2face321a904" />
-```
-คำถามทบทวน
+
+# คำถามทบทวน
 # 1 Docker vs Native Setup: อธิบายข้อดีของการใช้ Docker เปรียบเทียบกับการติดตั้ง ESP-IDF บน host system
 ```c
 | ประเด็น                           | ใช้ **Docker**                                                                       | ใช้ **Native Setup** (ติดตั้งตรงบน Host)                                                      |
